@@ -4,7 +4,7 @@ A deep learning project implementing a **hybrid Vision Transformer (ViT) + U-Net
 
 ---
 
-##  What It Does
+##  Overview
 - **Segmentation** → Generates pixel-level lesion masks using a U-Net style decoder.  
 - **Classification** → Predicts benign vs. malignant lesions with a ViT-based classification head.  
 - **Loss Functions** → Combined Dice Loss + Binary Cross-Entropy (BCE) for segmentation; Weighted Cross-Entropy for classification to address class imbalance.  
