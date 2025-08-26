@@ -49,6 +49,3 @@ A deep learning project implementing a **hybrid Vision Transformer (ViT) + U-Net
 - AUC: **0.77**
 
 ---
-
-
-MIT
